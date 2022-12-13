@@ -1,0 +1,66 @@
+﻿Øve: UML, Design patterns, SOLID
+Tegn UML diagrammer
+Skriv kode i hånden
+Hvordan fikser man kode, som bryder hvert princip i SOLID
+Lav en blazor page 
+Lav / læs en repo pattern med en context. Setup og configuring. 
+Fokuser på builderen af minimal APIs.
+Løs gamle eksamenssæt. 
+
+Under eksamen:
+10 spørgsmål i alt
+Læs først alle spørgsmålene
+Pseudo C# er bedre end ingen C#
+Pseudo kode kan give lidt point
+Drik vand
+
+Hvordan fikser man kode, som bryder hvert princip i SOLID. (Flere principper kan være brudt på en gang).
+
+Single Responsibility 
+En klasse skal kun et ansvar
+Fx skal logging af errors ske i en relevant klasse, og ikke ske overalt fra
+Fix ved at splitte ansvar ud i flere klasser
+En klasse skal kun have en grund til at ændre sig. 
+
+Open/closed 
+Extension over modification
+En lang række if else statements er tegn på at princippet er brudt. 
+Fix ved at bryde op i flere klasse som nedarver fra en superklasse og bruger override, 
+eller implementere det samme interface. 
+
+Liskov substitution 
+Runtime polymorfisme 
+En superklasse skal kun have en metode, som alle subklasser skal bruge
+Fix ved at lave om på klasse hiarkiet. 
+Princippet er også brudt hvis en subklasser overrider en metode, og laver helt om på funktionaliteten.
+
+Interface segregation
+Clients skal ikke implementere et interface som de ikke bruger alle metoder fra.
+Et interface skal være så småt så muligt. 
+En metode som kaster "throw new NotImplementedException" er et typisk eksempel på at princippet bliver brudt.
+
+Dependency inversion
+Depend on abstractions, not concretions
+Hvis en klasse har et felt hvor der står = new SomeClass(); er princippet ofte brugt. 
+Løs ved at indsætte objektet i constructoren (Constructor injection).
+Det er aller bedst hvis man kan give den et felt med et interface, frem for et konkret object.
+
+
+Design patterns
+Tegn kanonisk design pattern i et UML diagram
+
+Hvad er et design pattern: It is a re-usable form of a solution to a commonly occuring design problem.
+Hvordan bliver design patterns opdaget: Software engineers genkender mønstre i samme problemløsninger
+
+Behavioural - sker på runtime. Strategy/observer. Patterns some bestemmer kodens opførsel. Fortager sig en handling. 
+Structural - Hvordan skal koden stykkes sammen. Facade/Bridge. Tilpadser byggeklodserne i programmet så de passer bedre sammen. 
+Creational - Hvordan opretter vi objekter. Factory. 
+
+
+Diagrammer
+"Hvilken slags diagram er dette" 
+"Er to entities afhængige af hinanden"
+
+
+Kode
+public void SomeMethod {...} hvis det ikke er relevant hvordan en metode eksekverer.
