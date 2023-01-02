@@ -64,3 +64,19 @@ Diagrammer
 
 Kode
 public void SomeMethod {...} hvis det ikke er relevant hvordan en metode eksekverer.
+
+
+Vigtige design patterns til eksamen:
+Template Method
+Strategy 
+Facade 
+Mediator 
+Singleton
+Factory
+Composite
+Observer
+Adapter 
+Bridge
+Proxy 
+Gateway
+Visitor
