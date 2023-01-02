@@ -73,10 +73,10 @@ Facade
 Mediator 
 Singleton
 Factory
+Bridge
 Composite
 Observer
 Adapter 
-Bridge
 Proxy 
 Gateway
 Visitor
