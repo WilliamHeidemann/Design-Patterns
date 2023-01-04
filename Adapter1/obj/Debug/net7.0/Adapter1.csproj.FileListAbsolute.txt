@@ -1,0 +1,15 @@
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\bin\Debug\net7.0\Adapter1.exe
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\bin\Debug\net7.0\Adapter1.deps.json
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\bin\Debug\net7.0\Adapter1.runtimeconfig.json
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\bin\Debug\net7.0\Adapter1.dll
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\bin\Debug\net7.0\Adapter1.pdb
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.csproj.AssemblyReference.cache
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.AssemblyInfoInputs.cache
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.AssemblyInfo.cs
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.csproj.CoreCompileInputs.cache
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.dll
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\refint\Adapter1.dll
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.pdb
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\Adapter1.genruntimeconfig.cache
+C:\Users\Willi\Desktop\BDSA\DesignPatterns\DesignPatterns\Adapter1\obj\Debug\net7.0\ref\Adapter1.dll
