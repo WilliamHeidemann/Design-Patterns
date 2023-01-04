@@ -78,6 +78,5 @@ Composite
 Observer
 Adapter 
 Proxy 
-
-Gateway
 Visitor
+Gateway
