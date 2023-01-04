@@ -1,4 +1,4 @@
-﻿# Strategy Pattern
+﻿# Strategy
 
 Source of information: https://refactoring.guru/design-patterns/strategy
 

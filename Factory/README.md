@@ -1,4 +1,4 @@
-﻿# Factory Pattern
+﻿# Factory 
 
 Source: Agile Principles, Patterns, and Practices in C#, 
 Chapter 29, Martin

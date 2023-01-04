@@ -1,4 +1,4 @@
-﻿# Template Method Pattern
+﻿# Template Method
 
 Source of information: https://refactoring.guru/design-patterns/template-method
 

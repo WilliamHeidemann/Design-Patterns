@@ -1,4 +1,4 @@
-﻿# Mediator Pattern
+﻿# Mediator 
 
 Source of information: https://refactoring.guru/design-patterns/mediator
 

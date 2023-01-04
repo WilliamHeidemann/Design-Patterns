@@ -1,4 +1,4 @@
-﻿# Singleton Pattern
+﻿# Singleton 
 
 Source of information: https://refactoring.guru/design-patterns/singleton
 
