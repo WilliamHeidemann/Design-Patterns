@@ -76,8 +76,8 @@ Factory
 Bridge
 Composite
 Observer
-
 Adapter 
 Proxy 
+
 Gateway
 Visitor
